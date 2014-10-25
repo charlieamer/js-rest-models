@@ -1,0 +1,35 @@
+{
+  "name": "js-rest-models",
+  "version": "0.1.0",
+  "homepage": "https://github.com/charlieamer/js-rest-models",
+  "authors": [
+    "charlieamer <amer_zavlan@live.com>"
+  ],
+  "description": "A javascript library for easier menagment of models, as well as state replication to server (like deletion, insertion, etc)",
+  "main": "index.js",
+  "keywords": [
+    "javascript",
+    "rest",
+    "library",
+    "crud",
+    "create",
+    "update",
+    "delete",
+    "read",
+    "model",
+    "odm",
+    "manager"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "pluralize": "~1.0.1"
+  }
+}
